@@ -1,0 +1,12 @@
+/* ===========================
+=            PAGE            =
+=========================== */
+
+.page {
+  background: tint($colour-primary, 50%);
+  border-radius: $border-radius;
+  min-height: 300px;
+  padding: 1rem;
+}
+
+/* ====  End of PAGE  ===== */

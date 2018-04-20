@@ -18,7 +18,8 @@
 */
 
 @import
-  'base/reset';
+  'base/reset',
+  'base/index';
 
 /* End of Base */
 
@@ -27,8 +28,10 @@
 */
 
 @import
-  'layout/header',
-  'layout/footer';
+  'layouts/header',
+  'layouts/nav',
+  'layouts/page',
+  'layouts/footer';
 
 /* End of Layout */
 

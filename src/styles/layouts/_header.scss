@@ -1,0 +1,17 @@
+/* =============================
+=            HEADER            =
+============================= */
+
+.c-header {
+  @include flex-align;
+
+  border-bottom: 3px solid $colour-primary;
+  height: 3rem;
+  padding: 2.5rem 2rem 2.25rem;
+
+  .c-header__title {
+    color: hsla(0, 0%, 30%, 1);
+  }
+}
+
+/* ====  End of HEADER  ===== */
